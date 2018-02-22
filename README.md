@@ -15,3 +15,10 @@ plugins=(
 	listppa
 	...
 )
+
+##use
+type listppa in command line
+
+
+![alt text](https://raw.githubusercontent.com/npreiber/listppa/master/example.png))]
+
