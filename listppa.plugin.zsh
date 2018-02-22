@@ -7,5 +7,5 @@
 #@github.com/npreiber/listppa
 
 listppa(){
-	. $ZSH/plugins/listppa/listppa.sh
+	. $ZSH/custom/plugins/listppa/listppa.sh
 }
